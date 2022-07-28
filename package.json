@@ -7,7 +7,7 @@
     "figlet": "1.5.2",
     "fs-extra": "10.1.0",
     "moment": "2.29.4",
-    "@open-wa/wa-automate": "4.42.7"
+    "@open-wa/wa-automate": "4.43.1"
   },
   "keywords": [],
   "author": "ryan almalki",
